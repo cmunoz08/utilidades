@@ -1,0 +1,3 @@
+La forma de ingresar los datos es la siguiente:
+LLLLNN
+donde L corresponde ser una letra mayuscula y N un numero
